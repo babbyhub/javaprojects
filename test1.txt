@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7AD6-6D85
+
+ Directory of C:\Users\S2S\Desktop\Bhavya Testing Files\Jenkins
+
+11/22/2019  12:19 PM    <DIR>          .
+11/22/2019  12:19 PM    <DIR>          ..
+11/22/2019  12:03 PM               674 Hello.class
+11/22/2019  10:37 AM               147 Hello.java
+11/22/2019  12:19 PM                 0 test1.txt
+               3 File(s)            821 bytes
+               2 Dir(s)  41,643,704,320 bytes free
